@@ -10,6 +10,7 @@ namespace ConsoleApp38
     {
         static void Main(string[] args)
         {
+            int i = 5;
         }
     }
 }
